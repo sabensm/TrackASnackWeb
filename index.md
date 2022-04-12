@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+# Track-A-Snack
 
-You can use the [editor on GitHub](https://github.com/sabensm/TrackASnackWeb/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Visualize your snacking habits and build streaks of snacking healthy with Track-A-Snack! No more worrying about calories or scanning nutrition labels, this app makes it easy to:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[] Track snacks with a single tap
+[] View snacking history to see patterns and trends
+[] Tons more features coming in future releases
 
-### Markdown
+If you want to eat healthier but just can't seem to lose the weight, the problem might not be the meals you eat, but the "hidden" calories you eat or drink throughout the day. It's very easy to sneak a cookie in the afternoon, or a candy in the morning and not add it to your calorie counting app or food journal. While these may seem small, the small things do add up. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+With Track-A-Snack there's now no reason not to track even the smallest of snacks (yup... even if you eat just one small little chocolate candy). 
 
-```markdown
-Syntax highlighted code block
+## Privacy Policy
 
-# Header 1
-## Header 2
-### Header 3
+### Collection of Personal Information
+We do not collect, store, use or share any information, personal or otherwise.
 
-- Bulleted
-- List
+### Disclosure of Personal Information
+Since we don't collect or store information, we cannot share or sell it. 
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## Support or Contact
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sabensm/TrackASnackWeb/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Reach out to me on Twitter @mgsabens with any questions
