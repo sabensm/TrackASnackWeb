@@ -1,10 +1,10 @@
-### [Download Now](https://apps.apple.com/us/app/id1618704632)
-
 Visualize your snacking habits and build streaks of snacking healthy with Track-A-Snack! No more worrying about calories or scanning nutrition labels, this app makes it easy to:
 
 - Track snacks with a single tap
 - View snacking history to see patterns and trends
 - Tons more features coming in future releases
+
+### [Download Now](https://apps.apple.com/us/app/id1618704632)
 
 If you want to eat healthier but just can't seem to lose the weight, the problem might not be the meals you eat, but the "hidden" calories you eat or drink throughout the day. 
 
